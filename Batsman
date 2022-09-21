@@ -10,3 +10,4 @@ Shami
 Ravi
 Warner
 Cummins
+echo "This step is executed if build parameter ${SOME_ENV} has the value 'MyEnvValue'"
